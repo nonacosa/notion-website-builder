@@ -1,0 +1,13 @@
+# mac #
+.DS_Store
+
+# IDEA #
+.idea/
+*.iml
+
+# app #
+*.app
+*.exe
+
+
+

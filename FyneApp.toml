@@ -1,0 +1,5 @@
+[Details]
+  Icon = "gui/theme/icons/notion-wb.png"
+  Name = "notion-website-builder"
+  ID = "com.notionwb.app"
+  Build = 34
